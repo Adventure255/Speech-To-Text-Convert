@@ -2,6 +2,7 @@
 This code will be able to convert the English audio file into text with proper punctuation. 
 We used Assemblyai module for converting speech to text which easily does the job with punctuation marks into the text.
 We also added an additional feature which enables to play sound using "winsound" built-in module.
+
 #Packages used:
 1)	Winsound
  In Jupyter Notebook or JupyterLab, we can use the Winsound module to play simple sound alerts on Windows. The Winsound module provides a way to interact with the Windows Sound API.
